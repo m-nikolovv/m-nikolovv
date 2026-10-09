@@ -6,7 +6,7 @@ Lately most of my public work has gone into InstaConnect.
 
 ### InstaConnect
 
-[**InstaConnect**](https://github.com/VTUMihail1/InstaConnect) is a social media backend split into four services (Identity, Posts, Chats and Follows) that sit behind an nginx gateway and talk to each other through RabbitMQ events.
+[**InstaConnect**](https://github.com/m-nikolovv/InstaConnect) is a social media backend split into four services (Identity, Posts, Chats and Follows) that sit behind an nginx gateway and talk to each other through RabbitMQ events.
 
 - Each service follows Clean Architecture, with MediatR commands and queries, FluentValidation and Mapster
 - MongoDB with transactions, Redis for caching and SignalR for real-time chat and notifications
