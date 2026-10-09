@@ -16,7 +16,7 @@ Lately most of my public work has gone into InstaConnect.
 
 ### What I work with
 
-**Languages and frameworks:** C#, .NET, ASP.NET Core, HTML, CSS<br>
+**Languages and frameworks:** C#, .NET, ASP.NET Core<br>
 **Data:** MongoDB, SQL Server, MySQL, Redis<br>
 **Messaging:** RabbitMQ, MassTransit, SignalR<br>
 **Testing:** xUnit, NSubstitute, FluentAssertions, Testcontainers<br>
